@@ -1,3 +1,3 @@
 #!/bin/zsh
 
-echo "hello Siva"
+echo "hello Sivaram"
