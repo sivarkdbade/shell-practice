@@ -3,6 +3,6 @@
 a=10
 b=5
 
-sum=((a+b))
+sum=$((a+b))
 
 echo "SUM : $sum"
