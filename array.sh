@@ -10,6 +10,6 @@ echo ${fruits[@]}
 
 echo ${fruits[*]}
 
-echo ${fruits[#]}
+echo ${#fruits[@]}
 
 echo ${fruits[10]}
