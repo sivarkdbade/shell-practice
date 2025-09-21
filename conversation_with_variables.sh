@@ -3,7 +3,7 @@
 PERSON1=Siva
 PERSON2=Rekah
 
-$PERSON1 :: echo " Hello $(PERSON2), How are you ?"
-$PERSON2 :: echo "Hello $(PERSON1)  I am fine. How are you ?"
-$PERSON1 :: echo "Where ar you currently staying $(PERSON2)"
-$PERSON2 :: echo "We are about to move to Guntur soon, $PERSON1"
+echo "$PERSON1 ::  Hello $(PERSON2), How are you ?"
+echo "$PERSON2 :: Hello $(PERSON1)  I am fine. How are you ?"
+echo "$PERSON1 :: Where ar you currently staying $(PERSON2)"
+echo "$PERSON2 :: We are about to move to Guntur soon, $PERSON1"
